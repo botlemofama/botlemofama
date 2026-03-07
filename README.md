@@ -20,7 +20,7 @@ Python | SQL | Data Analysis | Data Visualization | Databases | Excel
 - Cybersecurity fundamentals
 
 ## GitHub Stats
-![Botle's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=botlemofama&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=botlemofama&show_icons=true&cache_seconds=86400)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=botlemofama&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botlemofama&layout=compact&cache_seconds=86400)
