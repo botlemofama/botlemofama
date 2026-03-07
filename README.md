@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Botle 👋
 
-<!--
-**botlemofama/botlemofama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Graduate – University of Pretoria  
 
-Here are some ideas to get you started:
+## About Me
+I’m passionate about using data and technology to solve real-world problems.  
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analytics
+- Cybersecurity
+- Artificial Intelligence
+- Cloud Computing
+
+## Skills
+Python | SQL | Data Analysis | Data Visualization | Databases | Excel
+
+## Currently Learning
+- Advanced Data Analytics
+- Cloud Technologies
+- Cybersecurity fundamentals
