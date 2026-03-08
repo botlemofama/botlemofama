@@ -2,25 +2,53 @@
 
 🎓 Information Science Graduate – University of Pretoria  
 
-## About Me
-I’m passionate about using data and technology to solve real-world problems.  
-My interests include:
+Welcome to my GitHub profile! I enjoy using technology and data to understand problems, uncover insights, and build solutions that have real-world impact.
 
-- Data Analytics
-- Cybersecurity
-- Artificial Intelligence
-- Cloud Computing
+---
 
-## Skills
-Python | SQL | Data Analysis | Data Visualization | Databases | Excel
+## 🚀 About Me
 
-## Currently Learning
-- Advanced Data Analytics
-- Cloud Technologies
-- Cybersecurity fundamentals
+I’m passionate about technology and continuously developing my skills in the fields of data, security, and emerging technologies.
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=botlemofama&show_icons=true&cache_seconds=86400)
+My main areas of interest include:
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=botlemofama&layout=compact&cache_seconds=86400)
+📊 Data Analytics  
+🔐 Cybersecurity  
+🤖 Artificial Intelligence  
+☁️ Cloud Computing  
+
+I enjoy working with data, solving analytical problems, and learning new tools that improve how information is processed and understood.
+
+---
+
+## 🛠️ Skills
+
+- **Programming:** Python, SQL  
+- **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA)  
+- **Data Tools:** Excel, Databases  
+- **Visualization:** Data Visualization techniques  
+
+---
+
+## 📚 Currently Learning
+
+I believe in continuous learning and improving my technical skills.
+
+- Advanced Data Analytics  
+- Cloud Technologies  
+- Cybersecurity Fundamentals  
+
+---
+
+## 📂 Projects
+
+Some of the projects you’ll find on my GitHub include:
+
+- **SQL Data Cleaning Project** – Cleaning and preparing a real-world layoffs dataset for analysis  
+- **Exploratory Data Analysis (EDA)** – Analyzing global layoffs to uncover trends and insights using SQL  
+
+More projects will be added as I continue learning and building.
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
